@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int main(void){
+int main(){
     int a;
-    printf("Please enter an integer: ")
+    printf("Please enter an integer: ");
     scanf("%d", a);
     int b;
     b = a * 2;
