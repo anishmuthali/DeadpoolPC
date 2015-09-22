@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
@@ -37,3 +38,6 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 #Readme
 >>>>>>> master
 >>>>>>> 52df913c8ead7aaede89e8caebd376fa24812f82
+=======
+# c-programming
+>>>>>>> 01f58e46ba6e1f27c4010f4b444f3a2c7c3cb34b
